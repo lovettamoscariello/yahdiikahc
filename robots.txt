@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oacohxeey.birthcurrent.com/sitemap.xml
